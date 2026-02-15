@@ -7,7 +7,11 @@ public class CaseCheck {
         Scanner sc = new Scanner(System.in);
 
         char ch = sc.next().trim().charAt(0);
-        System.out.println(ch);
 
+        if(ch>= 'a' && ch <= 'z'){
+            System.out.println(ch +" is in Smaller case");
+        }else{
+            System.out.println(ch +" is in Larger case");
+        }
     }
 }
