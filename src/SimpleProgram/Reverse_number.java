@@ -1,3 +1,5 @@
+package SimpleProgram;
+
 public class Reverse_number {
     public static void main(String[] args) {
         int n = 123456;
