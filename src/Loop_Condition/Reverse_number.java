@@ -1,4 +1,4 @@
-package SimpleProgram;
+package Loop_Condition;
 
 public class Reverse_number {
     public static void main(String[] args) {

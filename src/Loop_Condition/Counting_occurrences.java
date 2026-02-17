@@ -1,6 +1,4 @@
-package SimpleProgram;
-
-import java.util.Scanner;
+package Loop_Condition;
 
 public class Counting_occurrences {
     static void main(String[] args) {

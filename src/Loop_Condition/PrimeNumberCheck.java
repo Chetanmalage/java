@@ -1,4 +1,4 @@
-package SimpleProgram;
+package Loop_Condition;
 
 import java.util.*;
 
